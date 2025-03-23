@@ -6,7 +6,7 @@ namespace = "karidev"
 name = "NoPenalty"
 versionNumber = "0.1.0"
 description = "Restores the player's Jin and Exp and destroys the plant thingy"
-websiteUrl = "link to the git repo"
+websiteUrl = "https://github.com/Imlemer/nine-sols-no-penalty/"
 containsNsfwContent = false
 
 [package.dependencies]
